@@ -10,3 +10,7 @@ for sklep, produkt in lista_zakupów:
     superprodukty = produkty.title()
     zakupy = f"Idę do {supersklepy} i kupuję tam {superprodukty}"
     print(zakupy)
+
+    wszystkie_zakupy = lista_zakupów["mediamarkt"] + lista_zakupów["decathlon"]
+    suma_zakupow = len(wszystkie_zakupy)
+    print("W sumie kupiłem {} produktów".format(suma_zakupow))
