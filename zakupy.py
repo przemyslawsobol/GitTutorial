@@ -2,6 +2,7 @@ lista_zakupów = {}
 lista_zakupów["mediamarkt"] = ["ps4", "tablet", "słuchawki", "kierownica", "F1 2020"]
 lista_zakupów["decathlon"] = ["rower", "kurtka", "buty", "piłka", "spodenki"]
 
+print("specjalne pozdrowienia dla Marcina!")
 
 for sklep, produkt in lista_zakupów.items():
     sklepy = str(sklep)
