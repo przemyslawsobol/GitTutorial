@@ -1,5 +1,5 @@
 lista_zakupów = {}
-lista_zakupów["mediamarkt"] = ["ps4", "tablet", "słuchawki", "kierownica"]
+lista_zakupów["mediamarkt"] = ["ps4", "tablet", "słuchawki", "kierownica", "F1 2020"]
 lista_zakupów["decathlon"] = ["rower", "kurtka", "buty", "piłka"]
 
 
