@@ -1,6 +1,6 @@
 lista_zakupów = {}
 lista_zakupów["mediamarkt"] = ["ps4", "tablet", "słuchawki", "kierownica"]
-lista_zakupów["decathlon"] = ["rower", "kurtka", "buty"]
+lista_zakupów["decathlon"] = ["rower", "kurtka", "buty", "piłka"]
 
 
 for sklep, produkt in lista_zakupów.items():
